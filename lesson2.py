@@ -11,7 +11,7 @@ else:
     аfffaffaaaaaaffs
     фfffffaffss
 ff
-print('Problem 2')
+print('Problem 2')s
 number = int(infput('Enter number: ')) 
 if number >= 0 and number <= 21 or number >= 57 and number <= 100:
     print('Welcome')
