@@ -12,7 +12,7 @@ else:
     фf
 
 print('Problem 2')
-number = int(input('Enter number: '))f
+number = int(input('Enter number: ')) 
 if number >= 0 and number <= 21 or number >= 57 and number <= 100:
     print('Welcome')
 else:
