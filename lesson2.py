@@ -8,7 +8,7 @@ else:
     print('a < b')
     
     f
-    аff
+    аfff
     фfff
 f
 print('Problem 2')
