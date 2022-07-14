@@ -1,4 +1,4 @@
-'''а
+'''
 print('Problem 1')
 a = 2**3
 b = 3**2
@@ -6,6 +6,10 @@ if a > b:
     print('a > b')
 else:
     print('a < b')
+    
+    
+    
+    
 
 print('Problem 2')
 number = int(input('Enter number: '))
