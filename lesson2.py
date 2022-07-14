@@ -9,7 +9,7 @@ else:
     
     
     а
-    
+    ф
 
 print('Problem 2')
 number = int(input('Enter number: '))
