@@ -7,7 +7,7 @@ if a > b:
 else:
     print('a < b')
     
-    ff
+    fff
     аfff
     фffff
 ff
