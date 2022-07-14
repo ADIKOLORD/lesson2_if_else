@@ -7,7 +7,7 @@ if a > b:
 else:
     print('a < b')
     ffffaaa
-    fffffaaaaaaaaffddaffaf
+    fffffaaaaaaaaffddaffafa
     аfffaffaaaaaaffsdfaffafa
 ff
 print('Problem 2')s
