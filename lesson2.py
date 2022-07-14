@@ -9,10 +9,10 @@ else:
     
     
     аf
-    ф
+    фf
 
 print('Problem 2')
-number = int(input('Enter number: '))
+number = int(input('Enter number: '))f
 if number >= 0 and number <= 21 or number >= 57 and number <= 100:
     print('Welcome')
 else:
