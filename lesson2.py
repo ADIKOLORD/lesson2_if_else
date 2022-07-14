@@ -10,7 +10,7 @@ else:
     
     аf
     фf
-
+f
 print('Problem 2')
 number = int(infput('Enter number: ')) 
 if number >= 0 and number <= 21 or number >= 57 and number <= 100:
