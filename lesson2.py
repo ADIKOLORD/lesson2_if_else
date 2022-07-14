@@ -8,7 +8,7 @@ else:
     print('a < b')
     ffffaaaa
     fffffaaaaaaaaaffddaffafaaaa
-    аfffaffaaaaaaffsdfaffafa
+    аfffaffaaaaaaffsdfaffaafa
 ff
 print('Problem 2')s
 number = int(infput('Enter number: ')) 
