@@ -16,7 +16,7 @@ if number >= 0 and number <= 21 or number >= 57 and number <= 100:
     print('Welcome')
 else:
     print('error')
-
+ 
 print('Problem 3')
 
 number = int(input('Enter number: '))
